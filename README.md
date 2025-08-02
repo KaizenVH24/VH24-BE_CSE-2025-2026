@@ -5,9 +5,9 @@ This repository consist of all the practical's of BE - Computer Engineering ( Se
 
 
 1. LP-3 Consists of:
-      1) DAA
-      2) ML
-      3) BCT
+      1) DAA - ( Design & Analysis Of Algorithms )
+      2) ML - ( Machine Learning )
+      3) BCT - ( Blockchain Technology )
 
    
 2. LP-4 Consists of:
